@@ -1,0 +1,22 @@
+{
+  "name": "node-test-task",
+  "version": "0.0.1",
+  "description": "javascript.ninja test task",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krawitzzZ/nt.git"
+  },
+  "author": "Nikita Demin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/krawitzzZ/nt/issues"
+  },
+  "homepage": "https://github.com/krawitzzZ/nt#readme",
+  "dependencies": {
+    "websocket": "1.0.24"
+  }
+}
